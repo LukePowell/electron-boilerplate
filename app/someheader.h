@@ -1,0 +1,3 @@
+//Example Header
+int foo();
+
